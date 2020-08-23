@@ -8,6 +8,6 @@ attr_accessor :color, :size, :material, :condition
   end
  
   def turn_page
-    puts "Flipping the page...wow, you read fast!"
+    puts "The shoe has been repaired."
   end
 end
